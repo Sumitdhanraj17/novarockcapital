@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novarockcapital.netlify.app/sitemap.xml
